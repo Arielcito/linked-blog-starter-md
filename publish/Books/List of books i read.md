@@ -14,8 +14,12 @@
 14. Jobs biopic
 15. Elon Musk bio
 16. El poder del ahora
-17. Quiet(Leyendo)
-18. The lean startup(leyendo)
-19. The black swan(escuchando)
-20. Ingenieria de software en google(leyendo)
-21. Aplicacion de alta intensidad de datos(leyendo)
+17. El manual de naval ravinak
+18. Quiet(Leyendo)
+19. The lean startup(leyendo)
+20. The black swan(escuchando)
+21. Ingenieria de software en google(leyendo)
+22. Aplicacion de alta intensidad de datos(leyendo)
+23. The expert secrets(leyendo)
+24. The outsiders(leyendo)
+25. A random walk down wallstreet(Leyendo)
