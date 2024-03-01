@@ -1,0 +1,1 @@
+[Engineering is more about people than tech (eng-leadership.com)](https://newsletter.eng-leadership.com/p/engineering-is-more-about-people)

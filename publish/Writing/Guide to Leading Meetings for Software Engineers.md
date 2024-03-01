@@ -1,0 +1,1 @@
+[Guide to leading meetings as a software engineer (substack.com)](https://careercutler.substack.com/p/guide-to-leading-meetings-as-a-software)
