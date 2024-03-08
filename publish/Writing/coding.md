@@ -1,0 +1,1 @@
+Programming is 1% writing code and 99% understanding why the code you wrote is not working.

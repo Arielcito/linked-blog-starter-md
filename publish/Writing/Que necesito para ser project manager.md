@@ -1,0 +1,1 @@
+- Experiencia mínima de 3 años en gestión de proyectos, incluida la planificación del trabajo, la elaboración de informes de situación, la gestión de problemas y riesgos, la comunicación con las partes interesadas, la programación y el cierre de proyectos.

@@ -8,5 +8,5 @@ Besides the obvious keyword research, we document all questions and comments we 
 
 Sobre que hago contenido?
 - Programacion
-- desarrollo personal
+- Finanzas
 - empresas
